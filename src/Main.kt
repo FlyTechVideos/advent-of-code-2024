@@ -1,6 +1,6 @@
-import day19.Day19
+import day20.Day20
 
 fun main() {
-    Day19().solve1()
-    Day19().solve2()
+    Day20().solve1()
+    Day20().solve2()
 }
